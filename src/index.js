@@ -5,4 +5,4 @@ const test = 'Test'
 
 export test
 
-cosole.log("new repository")
+console.log("new repository")
